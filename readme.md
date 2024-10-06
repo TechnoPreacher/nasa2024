@@ -8,6 +8,7 @@
 ### Challenge: Chronicles of Exoplanet Exploration
 ### Project: POCKET UNIVERSE - a simple DIY solution for styding exoplanet detectiob methods
 ### demo link: https://youtu.be/TQkwvJ_T5BM
+### local demo link: https://docs.google.com/presentation/d/1rZJrzRt_UbBsxzGSAtSOIqTgVonBsY8X4dseu0gyMxY/edit?usp=sharing
 
 
 ## HIGH-LEVEL SUMMARY
