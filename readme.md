@@ -63,6 +63,6 @@ The founding father of Craft Lab is Nikolai Sulima, who calls himself a technica
 
 ![](pics/0.jpeg)
 
-|:-- PER ACTUM EST. AMEN --:|
+### PER ACTUM EST. AMEN
 
 
